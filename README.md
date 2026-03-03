@@ -19,7 +19,8 @@ Gear Testing: The scale of the Ressel is allows for a good test of the photogram
 1. Giorgio Pulvirenti
 2. Fabian Gast
 3. Simon Böck
-4. ???
+4. Daniel Plaschke?
+5. ???
 
 # Goals
 System Stress Test: Test the "big" photogrammetry rig with multiple cameras and lights in a high-demand, deep-cave environment.
