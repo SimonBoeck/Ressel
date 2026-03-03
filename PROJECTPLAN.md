@@ -22,7 +22,7 @@
 - Photogrammetry of blocks (in and out)
 - Photogrammetry of shallow, right tunnel until shaft (in and out)
 
-# Day 3
+# Day 3 (04.04.2026)
 
 ## Dive 1
 - Setup reference at the bottom of the shaft?
@@ -33,7 +33,7 @@
 - Photogrammetry of left, shallow tunnel
 - Photogrammetry of shaft until 50m, maybe until the dip after the shaft
 
-# Day 3
+# Day 4  (05.04.2026)
 
 '' First results from the shallow should be available
 
@@ -46,7 +46,7 @@
 
 - Photogrammetry from deep T rigth (in and out)
 
-# Day 4
+# Day 5  (06.04.2026)
 
 ## Dive 1
 - Improve the photogrammetry in the shallow part
@@ -54,3 +54,4 @@
 ## Dive 2
 
 - Photogrammetry from deep T left (in and out)
+
