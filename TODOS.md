@@ -9,10 +9,11 @@
 - [x] buy two official insta 360 ace pro underwater housings
 - [ ] rent two insta360 x5 with housing
 - [x] order backup mounts for cameras and lights
-- [ ] buy insta360 backup batteries with charger
-- [ ] get 4 actions cameras with runtime 60min at 4k
+- [x] buy insta360 backup batteries with charger
+- [x] get 4 actions cameras with runtime 60min at 4k
   - [x] 1 gopro 5 black (simon)
   - [x] 1 gopro (fabi)
-  - [ ] 
+  - [x] 1 gopro (giorgio)
+  - [x] 1 DJI Osmo Action 4 (josef)
 - [ ] rig trim 2 bold snaps
 - [ ] scooter trim
